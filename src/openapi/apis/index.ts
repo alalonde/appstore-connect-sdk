@@ -74,6 +74,7 @@ export * from './EndUserLicenseAgreementsApi';
 export * from './FinanceReportsApi';
 export * from './GameCenterEnabledVersionsApi';
 export * from './InAppPurchaseAppStoreReviewScreenshotsApi';
+export * from './InAppPurchaseAvailabilitiesApi';
 export * from './InAppPurchaseContentsApi';
 export * from './InAppPurchaseLocalizationsApi';
 export * from './InAppPurchasePriceSchedulesApi';
